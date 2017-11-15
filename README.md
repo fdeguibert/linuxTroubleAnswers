@@ -14,8 +14,8 @@ d'abord, tenter :
 lancer Xubuntu en recovery mode (échap une fois pendant l'écran acer au boot)
 puis options ubuntu avancées
 
-activer le réseau
-lancer dpkg. qui devrait restaurer XOrg (je crois que le port HDMI était débranché quand j'ai lancé le truc mais peut être pas)
+* activer le réseau  
+* lancer dpkg. qui devrait restaurer XOrg (je crois que le port HDMI était débranché quand j'ai lancé le truc mais peut être pas)
 
 puis redémarrer le pc, et ça devrait marcher....
 
@@ -23,7 +23,7 @@ puis redémarrer le pc, et ça devrait marcher....
 
 si ça n'a pas marché reproduire la procédure complète (y compris ce qui m'a détruit XOrg):
 
-tenter d'installer xserver-xorg-video-nouveau  avec aptitude:
+tenter d'installer `xserver-xorg-video-nouveau`  avec aptitude (apt-get install voudra pas) :
 
 `aptitude install xserver-xorg-video-nouveau`
 
