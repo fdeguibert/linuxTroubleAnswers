@@ -1,8 +1,10 @@
-# linuxTroubleAnswers
+# linuxTroubleResolver
 
 solutions aux problèmes rencontrés sur Linux....
 
-installation de Xubuntu 16.04 (last LTS) sur mon Acer Aspire V 15 nitro 592g
+
+
+## installation de Xubuntu 16.04 (last LTS) sur mon Acer Aspire V 15 nitro 592g, port HDMI non reconnu, pas de bureau étendu etc
 
 le 2 ème écran ne marche pas sur port HDMI. lié à l'optimus....
 solution : 
