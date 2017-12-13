@@ -70,5 +70,5 @@ Check https://ubuntuforums.org/showthread.php?t=927270&p=7593640#post7593640 and
 Maybe mix this solution with the already tried (at least the alsa-base.conf)
 
 
-#TODO
+# TODO 
 les confs réseaux (dont VPN) se trouvent dans /etc/NetworkManager/system-connections ce qui permet de les modifier à la main en cas de soucis d'import VPN
