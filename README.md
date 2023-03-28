@@ -6,6 +6,11 @@ A few answers to resolve troubles I got with Xubuntu on my Acer Aspire VN7-592G-
 2. [powerline font for agnoster theme from OhMyZsh](#powerline-font-for-agnoster-theme-from-ohmyzsh)
 3. [Sound mic trouble with Xubuntu](#sound-mic-trouble-with-xubuntu)
 
+## Arduino IDE
+
+
+install arduino IDE via SNAP (not apt)
+and if problem with ttyUSB0, check this https://askubuntu.com/questions/1403705/dev-ttyusb0-not-present-in-ubuntu-22-04 (accepted answer)
 
 
 ## HDMI port doesn't work.
