@@ -1,0 +1,10 @@
+
+docker run -it --device /dev/kvm -p 50922:10022 -e RAM=12 -e EXTRA='-smp 16,sockets=8,cores=2' -e WIDTH=1920 -e HEIGHT=1200 -v /tmp/.X11-unix:/tmp/.X11-unix -e "DISPLAY=${DISPLAY:-:0.0}" -e GENERATE_UNIQUE=true -e MASTER_PLIST_URL=https://raw.githubusercontent.com/sickcodes/osx-serial-generator/master/config-custom.plist sickcodes/docker-osx:ventura 
+
+
+if necessary, update the config in
+/var/lib/docker/containers/36e3ef5ae2da14c93a05c5087049f56f3e53283764e1b9aa749262874ca604e2/config.v2.json (replace the id by the one of the container)
+
+working config pasted in config.v2.json
+
+

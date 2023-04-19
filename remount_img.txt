@@ -1,0 +1,1 @@
+https://askubuntu.com/questions/69363/mount-single-partition-from-image-of-entire-disk-device
