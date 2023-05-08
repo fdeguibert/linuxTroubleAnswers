@@ -8,3 +8,4 @@ if necessary, update the config in
 working config pasted in config.v2.json
 
 
+to keep serial accross reboots, see https://github.com/sickcodes/Docker-OSX/issues/416
